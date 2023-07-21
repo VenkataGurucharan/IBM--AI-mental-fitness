@@ -1,1 +1,1 @@
-# IBM--AI-mental-fitness
+# IBM-AI-mental-fitness
